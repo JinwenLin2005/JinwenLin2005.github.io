@@ -21,8 +21,8 @@ Education
 
 Publications
 ======
-* [(Co-first Author)K.Y.Lau<sup>*</sup>, J.W.Lin<sup>*</sup>, S.Firstov, F.Afanasiev, X.F.Liu, and J.R.Qiu, A Low-Threshold Nonlinear-Amplifying-Loop-Mirror Mode-Locked Bismuth-Doped Fiber Laser Using A 3x3 Coupler, **Journal of Lightwave Technology** 43, 328(2025)]()
-* [K.Y.Lau, Z.C.Luo, J.W.Lin, B.B.Xu, X.F.Liu, and J.R.Qiu, Development of Figure-of-Nine Laser Cavity for Mode-Locked Fiber Lasers: A Review, Laser & Photonics Reviews (2024)]()
+* [(Co-first Author)K.Y.Lau<sup>*</sup>, J.W.Lin<sup>*</sup>, S.Firstov, F.Afanasiev, X.F.Liu, and J.R.Qiu, A Low-Threshold Nonlinear-Amplifying-Loop-Mirror Mode-Locked Bismuth-Doped Fiber Laser Using A 3x3 Coupler, **Journal of Lightwave Technology** 43, 328(2025)](assets/A_Low-Threshold_Nonlinear-Amplifying-Loop-Mirror_Mode-Locked_Bismuth-Doped_Fiber_Laser_Using_A_33_Coupler.pdf)
+* [K.Y.Lau, Z.C.Luo, J.W.Lin, B.B.Xu, X.F.Liu, and J.R.Qiu, Development of Figure-of-Nine Laser Cavity for Mode-Locked Fiber Lasers: A Review, Laser & Photonics Reviews (2024)](assets/Laser Photonics Reviews - 2024 - Lau - Development of Figure‐of‐Nine Laser Cavity for Mode‐Locked Fiber Lasers  A Review.pdf)
 
   
 Site-wide configuration
