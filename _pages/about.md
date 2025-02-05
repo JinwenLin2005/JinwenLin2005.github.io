@@ -44,8 +44,10 @@ Experience
   - Utilized bismuth-doped phosphosilicate glass fiber fabricated by the modified chemical vapour deposition method to generate high-quality emission for the optical communication O-band (~1260 nm to ~1360 nm).
   - Constructed a nonlinear-amplifying-loop-mirror mode-locked bismuth-doped fiber laser with a 3x3 optical coupler, which induced a phase shift of $ \frac{2\pi}{3} $.
   - Demonstrated that the initiation threshold of mode-locking in this novel structured laser cavity reduced at least by 45% and the output power increased at least 2 times, achieving improved mode-locking initiation capability and high-quality pulse emission compared to the conventional 2x2 coupler nonlinear-amplifying-loop-mirror laser cavity.
-![setup](images/sepup.png)
-![3x3](images/33.png)
+
+<img src="images/sepup.png" alt="Image 1" width="45%" style="display: inline-block;"/>
+<img src="images/33.png" alt="Image 2" width="45%" style="display: inline-block;"/>
+
 
 ---
 
