@@ -12,11 +12,6 @@ Jinwen Lin is a third-year undergraduate student from [College of Optical Scienc
 She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.google.com/citations?hl=en&user=tuNTMvEAAAAJ) from Zhejiang University and [Associate.Prof. Kuen Yao Lau](https://scholar.google.com/citations?hl=en&user=WmQVUuAAAAAJ) from Soochow University.
 
 Please find her CV here: [JinwenLin's CV](assets/CV_Jinwen_Lin.pdf).
-————————————————
-
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
 
 A data-driven personal website
 ======
