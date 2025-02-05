@@ -45,7 +45,7 @@ Experience
   - Constructed a nonlinear-amplifying-loop-mirror mode-locked bismuth-doped fiber laser with a 3x3 optical coupler, which induced a phase shift of $ \frac{2\pi}{3} $.
   - Demonstrated that the initiation threshold of mode-locking in this novel structured laser cavity reduced at least by 45% and the output power increased at least 2 times, achieving improved mode-locking initiation capability and high-quality pulse emission compared to the conventional 2x2 coupler nonlinear-amplifying-loop-mirror laser cavity.
 
-<img src="images/sepup.png" alt="Image 1" width="45%" style="display: inline-block;"/>
+<img src="images/setpup.png" alt="Image 1" width="45%" style="display: inline-block;"/>
 <img src="images/33.png" alt="Image 2" width="45%" style="display: inline-block;"/>
 
 
