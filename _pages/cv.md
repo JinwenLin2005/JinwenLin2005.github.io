@@ -55,9 +55,8 @@ Experience
 
   - Developed a method for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips through accelerated recombination in order to enable flexible control of mode field diameter and reduce losses.
   - Explored the method of direct-written three-dimensional optical waveguides using femtosecond laser to fabricate qubit logic gates and photonic quantum circuits.
-
-![femtosencond](images/femtosecond.png)
-![DC](images/DC.png)
+![femtosencond](femtosecond.png)
+![DC](DC.png)
 
 
 ---
