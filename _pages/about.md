@@ -44,8 +44,8 @@ Experience
   - Utilized bismuth-doped phosphosilicate glass fiber fabricated by the modified chemical vapour deposition method to generate high-quality emission for the optical communication O-band (~1260 nm to ~1360 nm).
   - Constructed a nonlinear-amplifying-loop-mirror mode-locked bismuth-doped fiber laser with a 3x3 optical coupler, which induced a phase shift of $ \frac{2\pi}{3} $.
   - Demonstrated that the initiation threshold of mode-locking in this novel structured laser cavity reduced at least by 45% and the output power increased at least 2 times, achieving improved mode-locking initiation capability and high-quality pulse emission compared to the conventional 2x2 coupler nonlinear-amplifying-loop-mirror laser cavity.
-![femtosecond](images/femtosecond.png)
-![DC](images/DC.png)
+![setup](images/setup.png)
+![3x3](images/33.png)
 
 ---
 
@@ -55,6 +55,8 @@ Experience
 
   - Developed a method for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips through accelerated recombination in order to enable flexible control of mode field diameter and reduce losses.
   - Explored the method of direct-written three-dimensional optical waveguides using femtosecond laser to fabricate qubit logic gates and photonic quantum circuits.
+![femtosecond](images/femtosecond.png)
+![DC](images/DC.png)
 
 ---
 
