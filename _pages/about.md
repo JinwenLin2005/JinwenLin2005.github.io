@@ -16,7 +16,7 @@ She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.goog
 Please find her CV here: [JinwenLin's CV](assets/CV_Jinwen_Lin.pdf).
 
 Education
------
+------
 * **09/2022 ~ Present:** Optical Science and Engineering, Zhejiang University(QS 42)
 
 Publications
