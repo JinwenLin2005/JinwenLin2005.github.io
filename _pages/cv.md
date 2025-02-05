@@ -23,9 +23,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [(Co-first Author)K.Y.Lau<sup>*</sup>, J.W.Lin<sup>*</sup>, S.Firstov, F.Afanasiev, X.F.Liu, and J.R.Qiu, A Low-Threshold Nonlinear-Amplifying-Loop-Mirror Mode-Locked Bismuth-Doped Fiber Laser Using A 3x3 Coupler, **Journal of Lightwave Technology** 43, 328(2025)](assets/A_Low-Threshold_Nonlinear-Amplifying-Loop-Mirror_Mode-Locked_Bismuth-Doped_Fiber_Laser_Using_A_33_Coupler.pdf)
+* [K.Y.Lau, Z.C.Luo, J.W.Lin, B.B.Xu, X.F.Liu, and J.R.Qiu, Development of Figure-of-Nine Laser Cavity for Mode-Locked Fiber Lasers: A Review, Laser & Photonics Reviews (2024)](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202301239?msockid=1bc7b18e6acd647113d0a3e96be36584)
   
 Honors & Awards
 ======
