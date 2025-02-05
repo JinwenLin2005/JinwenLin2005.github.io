@@ -57,8 +57,8 @@ Experience
 
   - Developed a method for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips through accelerated recombination in order to enable flexible control of mode field diameter and reduce losses.
   - Explored the method of direct-written three-dimensional optical waveguides using femtosecond laser to fabricate qubit logic gates and photonic quantum circuits.
-![femtosecond](images/femtosecond.png)
-![DC](images/DC.png)
+<img src="images/DC.png" alt="Image 1" width="45%" style="display: inline-block;"/>
+<img src="images/femtosecond.png" alt="Image 2" width="45%" style="display: inline-block;"/>
 
 ---
 
@@ -69,8 +69,9 @@ Experience
   - Constructed three quantitative models for analyzing wear dynamics and traffic patterns on ancient staircases.
   - Predicted the age from the extent of wearing utilizing machine vision and COMSOL simulation.
 
-
-
+<img src="images/simulation.png" alt="Image 1" width="45%" style="display: inline-block;"/>
+<img src="images/deserted_stair.png" alt="Image 2" width="45%" style="display: inline-block;"/>
+![ourwork](images/ourwork.png)
 
 
 
