@@ -85,6 +85,7 @@ Experience
  - Modeled the car body in SolidWorks software, used the omnidirectional wheel chassis structure and built the car using a 3D printer.
    ![solidworks](images/solidworks.png)
    ![car_picture](images/car.png)
+   
 ---
 
 - **The Multi-Scan Femtosecond Laser Direct-Writing Technology**  
@@ -119,6 +120,7 @@ strating an on-chip net gain of near 10 dB.
   - Outcome: A Poster.
 ![waveguide](images/wavegiude.png)
 
+---
 
 
 
