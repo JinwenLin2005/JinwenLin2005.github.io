@@ -27,31 +27,26 @@ Publications
 
 Honors & Awards
 -------
-<div style="display: flex; justify-content: space-between;">
-  <span>National Scholarship **(Top 1%)**</span>
-  <span>Oct. 2025</span>
-</div>
-* Undergraduate Natural Science Foundation of Zhejiang University **(Top 1%)** Jul. 2024
-* Zhejiang Provincial Government Scholarship **(Top 5%)** Nov. 2023
-* Zhejiang University First Prize Scholarship **(Top 3%)** Nov. 2025, 2024, 2023
-* Outstanding Student Award **(Top 3%)** Oct. 2025, 2024, 2023
-* Model Student of Outstanding Academic Performance **(Top 10%)** Oct. 2025, 2024, 2023
-* H-Honor in The American Mathematical/Interdisciplinary Contest in Modeling (MCM/ICM) May. 2025
-* First Prize in Zhejiang University Optoelectronic Design Competition July. 2025
-* Third Prize in Zhejiang Province College Student Physics Theoretical Competition Dec. 2024
-* Third Prize in National College Mathematics Competition Dec. 2023
+* National Scholarship **(Top 1%)**. Oct. 2025
+* Undergraduate Natural Science Foundation of Zhejiang University **(Top 1%)**. Jul. 2024
+* Zhejiang Provincial Government Scholarship **(Top 3%)**. Nov. 2023
+* Zhejiang University First Prize Scholarship **(Top 3%)**. Nov. 2025, 2024, 2023
+* Outstanding Student Award **(Top 3%)**. Oct. 2025, 2024, 2023
+* Model Student of Outstanding Academic Performance **(Top 10%)**. Oct. 2025, 2024, 2023
+* H-Honor in The American Mathematical/Interdisciplinary Contest in Modeling (MCM/ICM). May. 2025
+* First Prize in Zhejiang University Optoelectronic Design Competition. July. 2025
+* Third Prize in Zhejiang Province College Student Physics Theoretical Competition. Dec. 2024
+* Third Prize in National College Mathematics Competition. Dec. 2023
 
 
 Experience
 -----
 - **Low-threshold Mode-locked Bismuth-doped Ultrafast Fiber Laser at O-band**  
-  *Jan. 2023 -- Present*  
-  *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu and Assoc.Prof. Kuen Yao Lau*
-
+  *Jan. 2023 -- May. 2025*  
+  *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu and Assoc.Prof. Kuen Yao Lau | Zhejiang University*
   - Utilized bismuth-doped phosphosilicate glass fiber fabricated by the modified chemical vapour deposition method to generate high-quality emission for the optical communication O-band (~1260 nm to ~1360 nm).
-  - Constructed a nonlinear-amplifying-loop-mirror mode-locked bismuth-doped fiber laser with a 3x3 optical coupler, which induced a phase shift of $ \frac{2\pi}{3} $.
+  - Constructed a nonlinear-amplifying-loop-mirror mode-locked bismuth-doped fiber laser with a 3x3 optical coupler, which induced a phase shift of $$ \frac{2\pi}{3} $$.
   - Demonstrated that the initiation threshold of mode-locking in this novel structured laser cavity reduced at least by 45% and the output power increased at least 2 times, achieving improved mode-locking initiation capability and high-quality pulse emission compared to the conventional 2x2 coupler nonlinear-amplifying-loop-mirror laser cavity.
-
 <img src="images/setpup.png" alt="Image 1" width="45%" style="display: inline-block;"/>
 <img src="images/33.png" alt="Image 2" width="45%" style="display: inline-block;"/>
 
@@ -60,26 +55,17 @@ Experience
 
 - **Femtosecond Laser Direct-written of Waveguide and Quantum Circuit**  
   *Mar. 2024 -- Present*  
-  *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu*
-
-  - Developed a method for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips through accelerated recombination in order to enable flexible control of mode field diameter and reduce losses.
+  *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu | Zhejiang University*
+  - Coded for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips  in order to enable flexible control of mode field diameter and reduce losses.
   - Explored the method of direct-written three-dimensional optical waveguides using femtosecond laser to fabricate qubit logic gates and photonic quantum circuits.
-
-<div style="display: flex; justify-content: space-around;">
-    <img src="images/DC.png" alt="Image 1" width="45%"/>
-    <img src="images/femtosecond.png" alt="Image 2" width="45%"/>
-</div>
-
 
 ---
 
 - **MCM-ICM: Quantifying Wear and Human Traffic on Ancient Staircases**  
   *Jan. 2025 -- Feb. 2025*  
   *Core Team Member | The American Mathematical/Interdisciplinary Contest in Modeling*
-
   - Constructed three quantitative models for analyzing wear dynamics and traffic patterns on ancient staircases.
   - Predicted the age from the extent of wearing utilizing machine vision and COMSOL simulation.
-
 <div style="display: flex; justify-content: space-around;">
     <img src="images/simulation.png" alt="Image 1" width="45%"/>
     <img src="images/deserted_stair.png" alt="Image 2" width="45%"/>
