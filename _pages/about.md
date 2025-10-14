@@ -9,11 +9,11 @@ redirect_from:
 
 About
 ------
-**Jinwen Lin** is a third-year undergraduate student from [College of Optical Science and Engineering](http://opt.zju.edu.cn/opten/), [Zhejiang University](https://www.zju.edu.cn/english/). Her main research interest includes nonlinear and ultrafast optics, fiber lasers and integrated photonic quantum circuits.
+**Jinwen Lin** is a four-year undergraduate student from [College of Optical Science and Engineering](http://opt.zju.edu.cn/opten/), [Zhejiang University](https://www.zju.edu.cn/english/). Her main research interest includes nonlinear and ultrafast optics, fiber lasers and integrated photonic circuits.
 
 She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.google.com/citations?hl=en&user=tuNTMvEAAAAJ) from Zhejiang University and [Associate.Prof. Kuen Yao Lau](https://scholar.google.com/citations?hl=en&user=WmQVUuAAAAAJ) from Soochow University.
 
-Please find her CV here: [JinwenLin's CV](assets/CV_Jinwen_Lin.pdf).
+Please find her online CV here: [JinwenLin's CV](assets/CV_Jinwen_Lin.pdf).
 
 Education
 ------
@@ -21,8 +21,9 @@ Education
 
 Publications
 -------
-* [(Co-first Author)K.Y.Lau<sup>*</sup>, J.W.Lin<sup>*</sup>, S.Firstov, F.Afanasiev, X.F.Liu, and J.R.Qiu, A Low-Threshold Nonlinear-Amplifying-Loop-Mirror Mode-Locked Bismuth-Doped Fiber Laser Using A 3x3 Coupler, **Journal of Lightwave Technology** 43, 328(2025)](assets/A_Low-Threshold_Nonlinear-Amplifying-Loop-Mirror_Mode-Locked_Bismuth-Doped_Fiber_Laser_Using_A_33_Coupler.pdf)
-* [K.Y.Lau, Z.C.Luo, J.W.Lin, B.B.Xu, X.F.Liu, and J.R.Qiu, Development of Figure-of-Nine Laser Cavity for Mode-Locked Fiber Lasers: A Review, **Laser & Photonics Reviews** (2024)](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202301239?msockid=1bc7b18e6acd647113d0a3e96be36584)
+* [(Co-first Author)K. Y. Lau<sup>*</sup>, J. W. Lin<sup>*</sup>, S. Firstov, F. Afanasiev, X. F. Liu, and J. R. Qiu, A Low-Threshold Nonlinear-Amplifying-Loop-Mirror Mode-Locked Bismuth-Doped Fiber Laser Using A 3x3 Coupler, Journal of Lightwave Technology, 2025, 43(1):328-333.](assets/A_Low-Threshold_Nonlinear-Amplifying-Loop-Mirror_Mode-Locked_Bismuth-Doped_Fiber_Laser_Using_A_33_Coupler.pdf)
+*  J. W. Lin, K. Y. Lau, and J. R. Qiu, Research Status and Prospects of Bismuth-Doped Glass Fibers[J]. Chinese Journal of Lasers, 2025, 52(16): 1603016(https://researching.cn/articles/OJ5e9a6ed5fffb81ce).
+* [K. Y. Lau, Z. C. Luo, J. W. Lin, B. B. Xu, X. F. Liu, and J. R. Qiu, Development of Figure-of-Nine Laser Cavity for Mode-Locked Fiber Lasers: A Review, Laser & Photonics Reviews, 2025, 19:2301239.](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202301239?msockid=1bc7b18e6acd647113d0a3e96be36584)
 
 Honors & Awards
 -------
