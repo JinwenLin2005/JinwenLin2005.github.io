@@ -27,8 +27,14 @@ Publications
 
 Honors & Awards
 -------
-* National Scholarship **(Top 1%)**. Oct. 2025
-* Undergraduate Natural Science Foundation of Zhejiang University **(Top 1%)**. Jul. 2024
+* <div style="display: flex; justify-content: space-between;">
+  <span>National Scholarship (Top 1%)</span>
+  <span>Oct. 2025</span>
+</div>
+* <div style="display: flex; justify-content: space-between;">
+  <span>Undergraduate Natural Science Foundation of Zhejiang University (Top 1%)</span>
+  <span>Jul. 2024</span>
+</div>
 * Zhejiang Provincial Government Scholarship **(Top 3%)**. Nov. 2023
 * Zhejiang University First Prize Scholarship **(Top 3%)**. Nov. 2025, 2024, 2023
 * Outstanding Student Award **(Top 3%)**. Oct. 2025, 2024, 2023
