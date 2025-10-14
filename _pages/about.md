@@ -10,15 +10,15 @@ redirect_from:
 About
 ------
 **Jinwen Lin** is a four-year undergraduate student from [College of Optical Science and Engineering](http://opt.zju.edu.cn/opten/), [Zhejiang University](https://www.zju.edu.cn/english/). Her main research interest includes nonlinear and ultrafast optics, fiber lasers and integrated photonic circuits.
-She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.google.com/citations?hl=en&user=tuNTMvEAAAAJ) from Zhejiang University and [Associate.Prof. Kuen Yao Lau](https://scholar.google.com/citations?hl=en&user=WmQVUuAAAAAJ) from Soochow University.
+She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.google.com/citations?hl=en&user=tuNTMvEAAAAJ) from Zhejiang University and [Associate. Prof. Kuen Yao Lau](https://scholar.google.com/citations?hl=en&user=WmQVUuAAAAAJ) from Soochow University.
 
-Please find her online CV here: [JinwenLin's CV](assets/CV_Jinwen_Lin.pdf).
+Please find her online CV here: [JinwenLin's CV](assets/CV_JinwenLin.pdf).
 
 
 
 Education
 ------
-* **09/2022 ~ Present:** Optical Science and Engineering, Zhejiang University(QS 42)
+* **09/2022 ~ Present:** Optoelectronic Information Science and Engineering, Zhejiang University(QS 42)
 
 Publications
 -------
@@ -36,10 +36,10 @@ Honors & Awards
   <span>Jul. 2024</span>
 * <div style="display: flex; justify-content: space-between;">
   <span>Zhejiang Provincial Government Scholarship (Top 3%)</span>
-  <span>Nov. 2023</span>
+  <span>Oct. 2023</span>
 * <div style="display: flex; justify-content: space-between;">
   <span>Zhejiang University First Prize Scholarship (Top 3%)</span>
-  <span>Nov. 2025, 2024, 2023</span>
+  <span>Oct. 2025, 2024, 2023</span>
 * <div style="display: flex; justify-content: space-between;">
   <span>Outstanding Student Award (Top 3%)</span>
   <span>Oct. 2025, 2024, 2023</span>
@@ -47,7 +47,7 @@ Honors & Awards
   <span>Model Student of Outstanding Academic Performance (Top 10%)</span>
   <span>Oct. 2025, 2024, 2023</span>
 * <div style="display: flex; justify-content: space-between;">
-  <span>H-Honor in The American Mathematical/Interdisciplinary Contest in Modeling (MCM/ICM)</span>
+  <span>H-Honor in The American Mathematical/Interdisciplinary Contest in Modeling</span>
   <span>May. 2025</span>
 * <div style="display: flex; justify-content: space-between;">
   <span>First Prize in Zhejiang University Optoelectronic Design Competition</span>
@@ -60,7 +60,7 @@ Honors & Awards
   <span>Dec. 2023</span>
 
 Experience
------
+-------
 - **Low-threshold Mode-locked Bismuth-doped Ultrafast Fiber Laser at O-band**  
   *Jan. 2023 -- May. 2025*  
   *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu and Assoc.Prof. Kuen Yao Lau | Zhejiang University*
@@ -74,7 +74,7 @@ Experience
 ---
 
 - **The Multi-Scan Femtosecond Laser Direct-Writing Technology**  
-  *Jul. 2024 -- Mar. 2025*  
+  *Jul. 2024 -- Jan. 2025*  
   *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu | Zhejiang University*
   - Coded for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips  in order to enable flexible control of mode field diameter and reduce losses.
   - Explored the method of direct-written three-dimensional optical waveguides using femtosecond laser to fabricate qubit logic gates and photonic quantum circuits.
@@ -101,7 +101,7 @@ Experience
   - Built up the setup of waveguide amplifier to characterize the properties for the Er: Si3N4 spiral waveguides, demon
 strating an on-chip net gain of near 10 dB.
   - Outcome: A Poster.
-![waveguide](images/waveguide.png)
+![waveguide](images/wavegiude.png)
 
 
 
