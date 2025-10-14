@@ -14,6 +14,11 @@ She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.goog
 
 Please find her online CV here: [JinwenLin's CV](assets/CV_JinwenLin.pdf).
 
+Besides, she has always dreamed of making the field of optical engineering as open and collaborative as the computer science community, fostering a strong open-source spirit and culture. To realize this vision, she decided to share the notes she took during her undergraduate studies on Zhihu, a popular knowledge-sharing platform in China. Through this, she hopes to connect with fellow students in the optics community to exchange ideas and share learning experiences. Currently, she has written several articles on the platform, including
+- [Use an article to simply build the basic framework of electromagnetic field and electromagnetic wave theory (Field and Wave Electromagnetics)](https://zhuanlan.zhihu.com/p/717862303)
+- [Ansys Lumerical FDTD/Mode Simulation Tutorial and Case Study](https://zhuanlan.zhihu.com/p/1932427880786294738)
+- [Optoelectronics (including laser principles/semiconductor physics/nonlinear) course notes](https://zhuanlan.zhihu.com/p/1958155720362001967)
+- [Quantum Computation and Quantum Information——Knowledge Points Summary Mind Map](https://zhuanlan.zhihu.com/p/717720580)
 
 
 Education
