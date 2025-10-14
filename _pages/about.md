@@ -30,20 +30,33 @@ Honors & Awards
 * <div style="display: flex; justify-content: space-between;">
   <span>National Scholarship (Top 1%)</span>
   <span>Oct. 2025</span>
-</div>
 * <div style="display: flex; justify-content: space-between;">
   <span>Undergraduate Natural Science Foundation of Zhejiang University (Top 1%)</span>
   <span>Jul. 2024</span>
-</div>
-* Zhejiang Provincial Government Scholarship **(Top 3%)**. Nov. 2023
-* Zhejiang University First Prize Scholarship **(Top 3%)**. Nov. 2025, 2024, 2023
-* Outstanding Student Award **(Top 3%)**. Oct. 2025, 2024, 2023
-* Model Student of Outstanding Academic Performance **(Top 10%)**. Oct. 2025, 2024, 2023
-* H-Honor in The American Mathematical/Interdisciplinary Contest in Modeling (MCM/ICM). May. 2025
-* First Prize in Zhejiang University Optoelectronic Design Competition. July. 2025
-* Third Prize in Zhejiang Province College Student Physics Theoretical Competition. Dec. 2024
-* Third Prize in National College Mathematics Competition. Dec. 2023
-
+* <div style="display: flex; justify-content: space-between;">
+  <span>Zhejiang Provincial Government Scholarship (Top 3%)</span>
+  <span>Nov. 2023</span>
+* <div style="display: flex; justify-content: space-between;">
+  <span>Zhejiang University First Prize Scholarship (Top 3%)</span>
+  <span>Nov. 2025, 2024, 2023</span>
+* <div style="display: flex; justify-content: space-between;">
+  <span>Outstanding Student Award (Top 3%)</span>
+  <span>Oct. 2025, 2024, 2023</span>
+* <div style="display: flex; justify-content: space-between;">
+  <span>Model Student of Outstanding Academic Performance (Top 10%)</span>
+  <span>Oct. 2025, 2024, 2023</span>
+* <div style="display: flex; justify-content: space-between;">
+  <span>H-Honor in The American Mathematical/Interdisciplinary Contest in Modeling (MCM/ICM)</span>
+  <span>May. 2025</span>
+* <div style="display: flex; justify-content: space-between;">
+  <span>First Prize in Zhejiang University Optoelectronic Design Competition</span>
+  <span>July. 2025</span>
+* <div style="display: flex; justify-content: space-between;">
+  <span>Third Prize in Zhejiang Province College Student Physics Theoretical Competition</span>
+  <span>Dec. 2024</span>
+* <div style="display: flex; justify-content: space-between;">
+  <span>Third Prize in National College Mathematics Competition</span>
+  <span>Dec. 2023</span>
 
 Experience
 -----
