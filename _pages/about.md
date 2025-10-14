@@ -22,17 +22,23 @@ Education
 Publications
 -------
 * [(Co-first Author)K. Y. Lau<sup>*</sup>, J. W. Lin<sup>*</sup>, S. Firstov, F. Afanasiev, X. F. Liu, and J. R. Qiu, A Low-Threshold Nonlinear-Amplifying-Loop-Mirror Mode-Locked Bismuth-Doped Fiber Laser Using A 3x3 Coupler, Journal of Lightwave Technology, 2025, 43(1):328-333.](assets/A_Low-Threshold_Nonlinear-Amplifying-Loop-Mirror_Mode-Locked_Bismuth-Doped_Fiber_Laser_Using_A_33_Coupler.pdf)
-*  J. W. Lin, K. Y. Lau, and J. R. Qiu, Research Status and Prospects of Bismuth-Doped Glass Fibers[J]. Chinese Journal of Lasers, 2025, 52(16): 1603016(https://researching.cn/articles/OJ5e9a6ed5fffb81ce).
+* [J. W. Lin, K. Y. Lau, and J. R. Qiu, Research Status and Prospects of Bismuth-Doped Glass Fibers[J]. Chinese Journal of Lasers, 2025, 52(16): 1603016.](https://researching.cn/articles/OJ5e9a6ed5fffb81ce)
 * [K. Y. Lau, Z. C. Luo, J. W. Lin, B. B. Xu, X. F. Liu, and J. R. Qiu, Development of Figure-of-Nine Laser Cavity for Mode-Locked Fiber Lasers: A Review, Laser & Photonics Reviews, 2025, 19:2301239.](https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202301239?msockid=1bc7b18e6acd647113d0a3e96be36584)
 
 Honors & Awards
 -------
-* Undergraduate Natural Science Foundation of Zhejiang University **(Top 0.1%)** Jul. 2024
-* Zhejiang University First Prize Scholarship **(Top 3%)** Nov. 2024
-* Model Student of Outstanding Academic Performance **(Top 10%)** Nov. 2024
+<div style="display: flex; justify-content: space-between;">
+  <span>National Scholarship **(Top 1%)**</span>
+  <span>Oct. 2025</span>
+</div>
+* Undergraduate Natural Science Foundation of Zhejiang University **(Top 1%)** Jul. 2024
 * Zhejiang Provincial Government Scholarship **(Top 5%)** Nov. 2023
-* Zhejiang University First Prize Scholarship **(Top 3%)** Nov. 2023
-* Third Prize in Zhejiang Province College Student Physics Theoretical Competition Dec. 2023
+* Zhejiang University First Prize Scholarship **(Top 3%)** Nov. 2025, 2024, 2023
+* Outstanding Student Award **(Top 3%)** Oct. 2025, 2024, 2023
+* Model Student of Outstanding Academic Performance **(Top 10%)** Oct. 2025, 2024, 2023
+* H-Honor in The American Mathematical/Interdisciplinary Contest in Modeling (MCM/ICM) May. 2025
+* First Prize in Zhejiang University Optoelectronic Design Competition July. 2025
+* Third Prize in Zhejiang Province College Student Physics Theoretical Competition Dec. 2024
 * Third Prize in National College Mathematics Competition Dec. 2023
 
 
