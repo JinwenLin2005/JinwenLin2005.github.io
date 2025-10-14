@@ -12,7 +12,7 @@ About
 **Jinwen Lin** is a four-year undergraduate student from [College of Optical Science and Engineering](http://opt.zju.edu.cn/opten/), [Zhejiang University](https://www.zju.edu.cn/english/). Her main research interest includes nonlinear and ultrafast optics, fiber lasers and integrated photonic circuits.
 She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.google.com/citations?hl=en&user=tuNTMvEAAAAJ) from Zhejiang University and [Associate. Prof. Kuen Yao Lau](https://scholar.google.com/citations?hl=en&user=WmQVUuAAAAAJ) from Soochow University.
 
-Please find her online CV here: [JinwenLin's CV](assets/CV_JinwenLin.pdf).
+Please find her online CV here: [JinwenLin's CV](assets/CV_LinJinwen.pdf).
 
 Besides, she has always dreamed of making the field of optical engineering as open and collaborative as the computer science community, fostering a strong open-source spirit and culture. To realize this vision, she decided to share the notes she took during her undergraduate studies on Zhihu, a popular knowledge-sharing platform in China. Through this, she hopes to connect with fellow students in the optics community to exchange ideas and share learning experiences. Currently, she has written several articles on the platform, including
 - [Use an article to simply build the basic framework of electromagnetic field and electromagnetic wave theory (Field and Wave Electromagnetics)](https://zhuanlan.zhihu.com/p/717862303)
@@ -65,7 +65,8 @@ Honors & Awards
   <span>Dec. 2023</span>
 
 Experience
--------
+-----
+
 - **Low-threshold Mode-locked Bismuth-doped Ultrafast Fiber Laser at O-band**  
   *Jan. 2023 -- May. 2025*  
   *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu and Assoc.Prof. Kuen Yao Lau | Zhejiang University*
@@ -75,7 +76,15 @@ Experience
 <img src="images/setpup.png" alt="Image 1" width="45%" style="display: inline-block;"/>
 <img src="images/33.png" alt="Image 2" width="45%" style="display: inline-block;"/>
 
+---
 
+- **Zhejiang University Optoelectronic Design Competition**
+ *Mar. 2025 -- May. 2025*
+ *Core Team Member | Supervisor: Dr. Chunao Weng | Zhejiang University*
+ - Content of the competition: Design a set of intelligent vehicles with laser countermeasure functions. The vehicle includes a laser illuminator and a camera for recording the confrontation process. The vehicle can accurately determine the position of itself and the opponent's vehicle, perform laser aiming and irradiation, and has the function of avoiding the "minefield" in the field.
+ - Modeled the car body in SolidWorks software, used the omnidirectional wheel chassis structure and built the car using a 3D printer.
+   ![solidworks](images/solidworks.png)
+   ![car_picture](images/car.png)
 ---
 
 - **The Multi-Scan Femtosecond Laser Direct-Writing Technology**  
@@ -97,6 +106,8 @@ Experience
 </div>
 
 ![ourwork](images/ourwork.png)
+
+---
 
 - **A Photonic Integrated Erbium-Doped Waveguide Amplifier**
   *Jun. 2025 -- Aug. 2025*
