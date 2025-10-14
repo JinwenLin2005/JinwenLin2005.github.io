@@ -12,7 +12,7 @@ About
 **Jinwen Lin** is a four-year undergraduate student from [College of Optical Science and Engineering](http://opt.zju.edu.cn/opten/), [Zhejiang University](https://www.zju.edu.cn/english/), China. 
 Her main research interest includes nonlinear and ultrafast optics, fiber lasers and integrated photonic circuits. She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.google.com/citations?hl=en&user=tuNTMvEAAAAJ) from Zhejiang University and [Associate. Prof. Kuen Yao Lau](https://scholar.google.com/citations?hl=en&user=WmQVUuAAAAAJ) from Soochow University.
 
-Please find her CV here: [JinwenLin's CV](assets/CV_LinJinwen.pdf).
+Please find her CV here: [JinwenLin's CV](assets/Resume_JinwenLin.pdf).
 
 Besides, she has always dreamed of making the field of optical engineering as open and collaborative as the computer science community, fostering a strong open-source spirit and culture. To realize this vision, she decided to share the notes she took during her undergraduate studies on Zhihu, a popular knowledge-sharing platform in China. Through this, she hopes to connect with fellow students in the optics community to exchange ideas and share learning experiences. Currently, she has written several articles on this platform in Chinese, including
 - [Use an article to simply build the basic framework of electromagnetic field and electromagnetic wave theory (Field and Wave Electromagnetics)](https://zhuanlan.zhihu.com/p/717862303)
