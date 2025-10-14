@@ -10,10 +10,11 @@ redirect_from:
 About
 ------
 **Jinwen Lin** is a four-year undergraduate student from [College of Optical Science and Engineering](http://opt.zju.edu.cn/opten/), [Zhejiang University](https://www.zju.edu.cn/english/). Her main research interest includes nonlinear and ultrafast optics, fiber lasers and integrated photonic circuits.
-
 She is very fortunate to be advised by [Prof. Jianrong Qiu](https://scholar.google.com/citations?hl=en&user=tuNTMvEAAAAJ) from Zhejiang University and [Associate.Prof. Kuen Yao Lau](https://scholar.google.com/citations?hl=en&user=WmQVUuAAAAAJ) from Soochow University.
 
 Please find her online CV here: [JinwenLin's CV](assets/CV_Jinwen_Lin.pdf).
+
+
 
 Education
 ------
@@ -72,8 +73,8 @@ Experience
 
 ---
 
-- **Femtosecond Laser Direct-written of Waveguide and Quantum Circuit**  
-  *Mar. 2024 -- Present*  
+- **The Multi-Scan Femtosecond Laser Direct-Writing Technology**  
+  *Jul. 2024 -- Mar. 2025*  
   *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu | Zhejiang University*
   - Coded for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips  in order to enable flexible control of mode field diameter and reduce losses.
   - Explored the method of direct-written three-dimensional optical waveguides using femtosecond laser to fabricate qubit logic gates and photonic quantum circuits.
@@ -92,8 +93,15 @@ Experience
 
 ![ourwork](images/ourwork.png)
 
-
-
+- **A Photonic Integrated Erbium-Doped Waveguide Amplifier**
+  *Jun. 2025 -- Aug. 2025*
+ *Undergraduate Researcher | Supervisor: Prof. Chao Xiang | Hong Kong University*
+  - Simulated the coupling loss of the edge coupler between Si3N4 spiral waveguide and UHNA3 fiber using Lumerical.
+  - Utilized ion-implantation technology to fabricate erbium-doped Si3N4 sprial waveguides.
+  - Built up the setup of waveguide amplifier to characterize the properties for the Er: Si3N4 spiral waveguides, demon
+strating an on-chip net gain of near 10 dB.
+  - Outcome: A Poster.
+![waveguide](images/waveguide.png)
 
 
 
