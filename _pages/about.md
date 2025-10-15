@@ -83,8 +83,10 @@ Experience
  *Core Team Member | Supervisor: Dr. Chunao Weng | Zhejiang University*
  - Content of the competition: Design a set of intelligent vehicles with laser countermeasure functions. The vehicle includes a laser illuminator and a camera for recording the confrontation process. The vehicle can accurately determine the position of itself and the opponent's vehicle, perform laser aiming and irradiation, and has the function of avoiding the "minefield" in the field.
  - Modeled the car body in SolidWorks software, used the omnidirectional wheel chassis structure and built the car using a 3D printer.
-   ![solidworks](images/solidworks.png)
-   ![car_picture](images/car.png)
+
+   ![solidworks](assets/solidworks.png)
+
+   ![car](assets/car.png)
    
 ---
 
