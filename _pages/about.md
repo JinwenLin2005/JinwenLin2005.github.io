@@ -65,9 +65,8 @@ Honors & Awards
   <span>Dec. 2023</span>
 
 Experience
------
-
-- **Low-threshold Mode-locked Bismuth-doped Ultrafast Fiber Laser at O-band**  
+-------
+* **Low-threshold Mode-locked Bismuth-doped Ultrafast Fiber Laser at O-band**  
   *Jan. 2023 -- May. 2025*  
   *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu and Assoc.Prof. Kuen Yao Lau | Zhejiang University*
   - Utilized bismuth-doped phosphosilicate glass fiber fabricated by the modified chemical vapour deposition method to generate high-quality emission for the optical communication O-band (~1260 nm to ~1360 nm).
@@ -78,10 +77,10 @@ Experience
 
 ---
 
-- **Zhejiang University Optoelectronic Design Competition**
- *Mar. 2025 -- May. 2025*
- *Core Team Member | Supervisor: Dr. Chunao Weng | Zhejiang University*
- - Content of the competition: Design a set of intelligent vehicles with laser countermeasure functions. The vehicle includes a laser illuminator and a camera for recording the confrontation process. The vehicle can accurately determine the position of itself and the opponent's vehicle, perform laser aiming and irradiation, and has the function of avoiding the "minefield" in the field.
+* **Zhejiang University Optoelectronic Design Competition**
+   *Mar. 2025 -- May. 2025*
+   *Core Team Member | Supervisor: Dr. Chunao Weng | Zhejiang University*
+- Content of the competition: Design a set of intelligent vehicles with laser countermeasure functions. The vehicle includes a laser illuminator and a camera for recording the confrontation process. The vehicle can accurately determine the position of itself and the opponent's vehicle, perform laser aiming and irradiation, and has the function of avoiding the "minefield" in the field.
  - Modeled the car body in SolidWorks software, used the omnidirectional wheel chassis structure and built the car using a 3D printer.
 
    ![solidworks](assets/solidworks.png)
@@ -90,7 +89,7 @@ Experience
    
 ---
 
-- **The Multi-Scan Femtosecond Laser Direct-Writing Technology**  
+* **The Multi-Scan Femtosecond Laser Direct-Writing Technology**  
   *Jul. 2024 -- Jan. 2025*  
   *Undergraduate Researcher | Supervisor: Prof. Jianrong Qiu | Zhejiang University*
   - Coded for direct-written optical waveguides served as connectors between optical fibers and silicon-based chips  in order to enable flexible control of mode field diameter and reduce losses.
@@ -98,7 +97,7 @@ Experience
 
 ---
 
-- **MCM-ICM: Quantifying Wear and Human Traffic on Ancient Staircases**  
+* **MCM-ICM: Quantifying Wear and Human Traffic on Ancient Staircases**  
   *Jan. 2025 -- Feb. 2025*  
   *Core Team Member | The American Mathematical/Interdisciplinary Contest in Modeling*
   - Constructed three quantitative models for analyzing wear dynamics and traffic patterns on ancient staircases.
@@ -112,7 +111,7 @@ Experience
 
 ---
 
-- **A Photonic Integrated Erbium-Doped Waveguide Amplifier**
+* **A Photonic Integrated Erbium-Doped Waveguide Amplifier**
   *Jun. 2025 -- Aug. 2025*
  *Undergraduate Researcher | Supervisor: Prof. Chao Xiang | Hong Kong University*
   - Simulated the coupling loss of the edge coupler between Si3N4 spiral waveguide and UHNA3 fiber using Lumerical.
