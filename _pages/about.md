@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Jinwen Lin's Personal Homepage"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
